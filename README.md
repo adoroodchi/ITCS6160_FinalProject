@@ -4,6 +4,7 @@ Team Members:
 Nehal Kathale
 Pratik Sunil Zode
 Sreelekha Pasikanti 
+Ali Doroodchi
 
 Project Introduction: 
 Our Project describes the entire ecosystem at UNCC. The students, faculty, staff, and many more entities compose UNC-Charlotte as a whole. Our Project contains 20 tables -- starting with the Person table. 
